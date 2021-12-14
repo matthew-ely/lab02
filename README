@@ -1,0 +1,10 @@
+Matt Ely (811-653-312)
+
+    Instructions on how to compile and run code:
+
+    - To compile, type: "make"
+
+    - To run, type: "./'file_name'"
+        //for example, to run "exclusive", type "./exclusive"
+
+    - To clean, type: "make clean"
